@@ -1,7 +1,21 @@
-div {
-  background-color: red;
-  font-size: 32px;
-  color: white;
-  text-align: center;
+.odd {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  color: black;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;
+
+}
+
+#four {
+  color: green;
+  font-size: 24px;
   font-weight: bold;
+}
+
+.cool {
+  font-size: 24px;
 }
